@@ -3,6 +3,84 @@ p {
   margin-bottom: 0.5em; /* Отступ снизу */
  }
 
+ h1{
+   text-align: center;
+ }
+
  h2 {
   text-align: center;
 }
+ 
+nav { 
+  width: 300px;
+  padding: 20px;
+  background: #F6E8D7;
+  border: 2px solid #D6562B;
+ }
+
+ body {
+   background: #FFF8DC;
+ }
+
+ 
+
+ .content{
+   background:#FFDEAD;
+   font-style: italic;
+ }
+
+ h1{
+   color: #A52A2A;
+ }
+
+ h2{
+   color: #FF0000;
+ }
+
+ h3{
+   color: black;
+ }
+
+ .chapter_1{
+   background: #DEB887;
+ }
+
+  .i{
+    font-style: italic;
+  }
+  
+  .b{
+    font-weight: bold;
+  }
+
+  .chapter_2{
+    background: #F4A460;
+  }
+
+  .note2{
+    font-weight: bold;
+  }
+
+  .s{
+    text-decoration:line-through;
+  }
+
+  .u{
+    text-decoration: underline;
+  }
+
+  .chapter_3{
+    background: #CD853F;
+  }
+
+  .chapter_4{
+    background: #B8860B;
+  }
+
+  .chapter_5{
+    background: #D2691E;
+  }
+
+  .note5{
+    font-weight: bold;
+  }
